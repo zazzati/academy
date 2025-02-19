@@ -2,5 +2,6 @@ Typical scenario: I start working and do a pull.
 I make changes.
 In the repo that is downloaded remotely someone has pushed changes that I don't have locally
 
-
 new local lines
+new remote lines
+
