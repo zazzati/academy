@@ -3,3 +3,4 @@ Resolve conflicts: Edit the files to manually resolve the conflicts.
 Add resolved files: Use git add to add the resolved files.
 Complete the merge: Use git commit to complete the merge.
 
+new remote lines
