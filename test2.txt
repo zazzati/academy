@@ -3,12 +3,3 @@ Resolve conflicts: Edit the files to manually resolve the conflicts.
 Add resolved files: Use git add to add the resolved files.
 Complete the merge: Use git commit to complete the merge.
 
-
-
-
-This marks the beginning of the section that contains your changes (the changes in your current branch).
-
-This separates your changes from the incoming changes (the changes from the branch you are merging or pulling).
-
-[branch-name]: This marks the end of the section that contains the incoming changes. [branch-name] is the name of the branch you are merging or pulling from.
-conflictbranch
