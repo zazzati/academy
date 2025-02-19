@@ -1,5 +1,6 @@
-Identify conflicts: Open the files with conflicts and look for conflict markers (<<<<<<<, =======, >>>>>>>).
-Resolve conflicts: Edit the files to manually resolve the conflicts.
-Add resolved files: Use git add to add the resolved files.
-Complete the merge: Use git commit to complete the merge.
+Typical scenario: I start working and do a pull. 
+I make changes.
+In the repo that is downloaded remotely someone has pushed changes that I don't have locally
 
+
+new local lines
